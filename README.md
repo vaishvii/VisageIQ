@@ -11,6 +11,8 @@ Training a model to detect face masks: A default OpenCV module was used to obtai
 
 Detecting the person not wearing a mask: A open CV model was trained to detect the faces of the people who are not wearing masks and saving their photos.
 
+![image](https://github.com/vaishvii/VisageIQ/assets/111447942/ee313396-dee6-4e2f-acbe-04bda14c0d21)
+
 
 **RESULT AND ANALYSIS**
 
